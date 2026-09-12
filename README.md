@@ -4,6 +4,14 @@ D_MATH BOOSTER is a customizable, browser-based math practice game for teachers,
 
 It is a small static project made to play, copy, and customize. It uses plain HTML, CSS, and vanilla JavaScript: no framework, Node.js, npm, or build step is required to run it.
 
+## Live Demo
+
+Try [D_MATH BOOSTER](https://d-math-booster.netlify.app).
+
+## Privacy
+
+The open-source template contains no analytics or tracking. The official D_MATH BOOSTER demo uses privacy-conscious anonymous usage analytics during the pilot to understand which features are useful. No student accounts, answer histories, scores, or personal information are collected by the game analytics.
+
 ## What it is
 
 The game presents short, timed math rounds with immediate feedback, score tracking, audio cues, Back navigation, and desktop and mobile layouts. Keyboard input is supported. Sound effects are synthesized in the browser with the Web Audio API, so no audio files are required.
